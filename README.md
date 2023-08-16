@@ -3,8 +3,7 @@ In an era of digital advancement and e-commence, almost each and every product a
 
 Customer Review Analysis is a prototype open source platform to turn the customer feedbacks in to visualization and extract the trending keywords. 
 
-## Product SnapShot
-<img src="dash.png">
+
 
 ## How to Reproduce - local
 1. download dash.zip file
@@ -13,12 +12,5 @@ Customer Review Analysis is a prototype open source platform to turn the custome
 4. install the dependencies using: pip3 install -r requirments.text
 5. run the application: python application.py
 
-## How to Reproduce - AWS
-1. download dash.zip file
-2. follow the deploymeny guidance document
-## Blog
-https://www.analyticsvidhya.com/blog/2021/06/develop-a-customer-review-analysis-platform-from-scratch/
-## License
-MIT
 
 
